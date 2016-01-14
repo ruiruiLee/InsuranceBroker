@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>439B1820-DD40-48BF-8476-3B26A5BCA912</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ibroker</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>76DE6AD3CF22081A8846035161B80116F3A80F81</key>
+		<string>ssh://github.com/ruiruiLee/InsuranceBroker.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ibroker/ibroker.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>76DE6AD3CF22081A8846035161B80116F3A80F81</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/ruiruiLee/InsuranceBroker.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>76DE6AD3CF22081A8846035161B80116F3A80F81</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>76DE6AD3CF22081A8846035161B80116F3A80F81</string>
+			<key>IDESourceControlWCCName</key>
+			<string>InsuranceBroker</string>
+		</dict>
+	</array>
+</dict>
+</plist>
